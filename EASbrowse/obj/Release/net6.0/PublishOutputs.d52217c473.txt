@@ -1,0 +1,15 @@
+C:\Users\lacsj\Desktop\eas\easCreature.wav
+C:\Users\lacsj\Desktop\eas\easLights.wav
+C:\Users\lacsj\Desktop\eas\easParanoia.wav
+C:\Users\lacsj\Desktop\eas\easSilent.wav
+C:\Users\lacsj\Desktop\eas\EASbrowse.exe
+C:\Users\lacsj\Desktop\eas\EASbrowse.dll
+C:\Users\lacsj\Desktop\eas\EASbrowse.deps.json
+C:\Users\lacsj\Desktop\eas\EASbrowse.runtimeconfig.json
+C:\Users\lacsj\Desktop\eas\EASbrowse.pdb
+C:\Users\lacsj\Desktop\eas\Microsoft.Win32.SystemEvents.dll
+C:\Users\lacsj\Desktop\eas\System.Drawing.Common.dll
+C:\Users\lacsj\Desktop\eas\System.Windows.Extensions.dll
+C:\Users\lacsj\Desktop\eas\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lacsj\Desktop\eas\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lacsj\Desktop\eas\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
